@@ -1,25 +1,11 @@
-# React-Native : Lessons1.js 
+# React-Native
 
 ## Description
-- Component
-- Function
-- Variable
-- Import / export
-- style
+Du kan klikke på relevante koblinger for React-Native-kurs.
 
-## Problem Statement
+## Kursliste
 
-- Your company has recently started on a project that aims to create a company website page. So you and your colleagues have started to work on the project.
-
-
-## Expected Outcome
-
-![Project 004 Snapshot](Project_004_1.png)
-
-
-## Objective
-
-Build a Landing that is functionally similar to this: [Website Page Design](https://aaron-clarusway.github.io/webdesign/index.html)
+React-Native : Lessons1.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/tree/main/learnReactNative/src)
 
 ## Happy coding!
 
