@@ -16,7 +16,7 @@ Example1_LoginPage: [Klikk på meg](https://github.com/serdardurmus/React-Native
 
 ## Expected Outcome
 
-![Project 002 Snapshot](./images\Example1_LoginPage_img/loginpage.jpg)
+![Project 002 Snapshot](images/Example1_LoginPage_img/loginpage.jpg)
 
 ## Happy coding!
 
