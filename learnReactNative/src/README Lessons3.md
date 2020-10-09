@@ -1,10 +1,14 @@
 # React-Native : Lessons3.js 
 
 ## Description
-- components
-- override
+- Components
+- Override
+- TouchableOpacity
+    - onPress
+    - onLongPress
+- Array
 
-Lessons2.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons3.js)
+Lessons3.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons3.js)
 
 ## Happy coding!
 

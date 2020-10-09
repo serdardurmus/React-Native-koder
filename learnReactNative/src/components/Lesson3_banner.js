@@ -3,6 +3,8 @@ import {View, Text, SafeAreaView, StyleSheet} from 'react-native';
 
 
 const myBanner = (props) => {
+
+ 
     return (
         <View style={[styles.container, {backgroundColor: props.color}]}>
             <View style={{flexDirection: "row", alignItems: "center",}}>
@@ -10,7 +12,8 @@ const myBanner = (props) => {
                     <Text style={styles.text}>{props.title}</Text>
                     <Text style={styles.text_2}>{props.desc}</Text>
                 </View>
-                <Text style={styles.text_2}>İnaktif</Text>
+                {/* {props.isActive ? null : <Text style={styles.text_2}>İnaktif</Text>} */}
+                { !props.isActive && <Text style={styles.text_2}>İnaktif</Text>}
             </View>
         </View>
     )
