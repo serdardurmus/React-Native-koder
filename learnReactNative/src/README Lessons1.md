@@ -7,5 +7,7 @@
 - Import / export
 - style
 
+Lessons1.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons1.js)
+
 ## Happy coding!
 
