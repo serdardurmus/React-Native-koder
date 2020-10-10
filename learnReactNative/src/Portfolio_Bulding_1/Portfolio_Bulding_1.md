@@ -17,5 +17,5 @@ Portfolio_Bulding_1.js: [Klikk på meg](https://github.com/serdardurmus/React-Na
 
 ## Expected Outcome
 
-![Portfolio_Bulding_1.js](Portfolio_Bulding_1.jpg)
+![Portfolio_Bulding_1.js](Portfolio_Bulding1.jpg)
 
