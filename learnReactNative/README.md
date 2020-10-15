@@ -17,6 +17,7 @@ Du kan klikke på relevante koblinger for React-Native-kurs.
 
 ## Portfolio Bulding
 - Portfolio_Bulding_1: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Portfolio_Bulding_1/Portfolio_Bulding_1.md)
+- Portfolio_Bulding_2: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Portfolio_Bulding_2/Portfolio_Bulding_2.md)
 
 ## Happy coding!
 
