@@ -12,5 +12,5 @@ Lessons5_Login.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-
 
 ## Expected Outcome
 
-![Lessons5.js](images/Lessons4/Lessons5.jpg)
+![Lessons5.js](images/Lessons5/Lessons5.jpg)
 
