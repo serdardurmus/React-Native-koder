@@ -12,9 +12,9 @@ const App = () => {
                 <Text ></Text>
                 <SectionList 
                     sections = {[
-                        {title: 'D', data: ['Devin', 'Dan', 'Dominic']},
+                        {title: 'D', data: ['Devin', 'Dan', 'Dominic', 'Duk']},
                         {title: 'J', data: ['Jackson', 'James', 'Jillian', 'Joel', 'John', 'Julie']},
-                        {title: 'T', data: ['Tom']},
+                        {title: 'T', data: ['Tom', 'Tomas', 'Tor', 'Tok']},
                     ]}
                 renderItem={({item}) => <Text style={styles.item}>{item}</Text>}
                 renderSectionHeader={({section}) => <Text style={styles.sectionHeader}>{section.title}</Text>}
