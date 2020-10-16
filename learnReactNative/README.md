@@ -10,7 +10,8 @@ Du kan klikke på relevante koblinger for React-Native-kurs.
 - Lessons3.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/README%20Lessons3.md)
 - Lessons4.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/README%20Lessons4.md)
 - Lessons5.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/README%20Lessons5.md)
-- Lessons6_flatlist.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/README%20Lessons6_flatlist.md)
+- Lessons6_flatlist.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons6_flatlist.md)
+- Lessons6_SectionList.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons6_SectionList.md)
 
 
 ## Eksempler
