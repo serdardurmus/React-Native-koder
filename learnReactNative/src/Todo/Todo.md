@@ -10,4 +10,4 @@ Todo.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob
 
 ## Expected Outcome
 
-![Todo.js](./images/Todo/Todo.jpg)
+![Todo.js](../images/Todo/Todo.jpg)
