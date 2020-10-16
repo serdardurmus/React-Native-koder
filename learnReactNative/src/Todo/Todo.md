@@ -1,13 +1,13 @@
-# React-Native : Lessons8_buttons.js 
+# React-Native : Todo.js 
 
 ## Description
 - Buttons
 
-Lessons8_buttons.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons8_buttons.js)
+Todo.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Todo//Todo.js)
 
 
 ## Happy coding!
 
 ## Expected Outcome
 
-![Lessons8_buttons.js](images/Lessons8/Lessons8.jpg)
+![Todo.js](images/Todo/Todo.jpg)
