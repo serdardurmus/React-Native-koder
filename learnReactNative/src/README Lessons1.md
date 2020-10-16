@@ -11,3 +11,6 @@ Lessons1.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/
 
 ## Happy coding!
 
+## Expected Outcome
+
+![Lessons1.js](images/Lessons1/Lessons1.jpg)
