@@ -1,7 +1,9 @@
 # React-Native : Todo.js 
 
 ## Description
-- Buttons
+- TouchableOpacity
+- Dimensions
+- useState
 
 Todo.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Todo//Todo.js)
 
