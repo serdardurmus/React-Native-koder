@@ -14,6 +14,7 @@ Du kan klikke på relevante koblinger for React-Native-kurs.
 - Lessons6_SectionList.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons6_SectionList.md)
 - Lessons7_textInput.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons7_textInput.md)
 - Lessons8_buttons.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons8_buttons.md)
+- Lessons9_gjenta.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons9_gjenta.md)
 
 
 ## Eksempler
