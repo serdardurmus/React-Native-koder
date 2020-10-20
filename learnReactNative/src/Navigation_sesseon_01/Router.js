@@ -1,19 +1,30 @@
-import React from "react";
-import {View, Text, StyleSheet, SafeAreaView, FlatList, Alert, TextInput} from "react-native";
+// In App.js in a new project
 
+import * as React from 'react';
+import { View, Text } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
 
-const App = () => {
+import First from './pages/First';
+import Second from './pages/Second';
 
-   
+const Stack = createStackNavigator();
 
-    return(
-        <SafeAreaView style={{flex: 1}}>
-            <View style={{flex: 1}}>
-                <Text >React Navigation</Text>
-            </View>
-        </SafeAreaView>
-    )
-};
+function Router() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator 
+        initialRouteName="FirstPage"
+        screenOptions={{headerShown: false, gestureEnabled: true}}
+      >
+        <Stack.Screen 
+            name="FirstPage" 
+            component={First} 
+            options={{title: 'Gönderiler'}}/>
+        <Stack.Screen name="SecondPage" component={Second} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
 
-export default App;
-
+export default Router;
