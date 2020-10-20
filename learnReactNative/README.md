@@ -16,7 +16,7 @@ Du kan klikke på relevante koblinger for React-Native-kurs.
 - Lessons8_buttons.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons8_buttons.md)
 - Lessons9_gjenta.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Lessons9_gjenta.md)
 
-## Kursliste
+## React Native Navigation KursListe
 - Navigation_sesseon_01: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Navigation_sesseon_01/Navigation_sesseon_01.md)
 
 ## Eksempler

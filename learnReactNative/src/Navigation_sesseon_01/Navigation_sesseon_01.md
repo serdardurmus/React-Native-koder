@@ -7,11 +7,11 @@
     - Moving between screens
     - Passing parameters to routes
 
-Navigation_sesseon_01.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Navigation_sesseon_01/Main.js)
+Navigation_sesseon_01.js: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Navigation_sesseon_01/Router.js)
 
 ## Happy coding!
 
 ## Expected Outcome
 
-![Navigation_sesseon_01.js](./Images/Navigation_sesseon_01.jpg)
+![Navigation_sesseon_01.js](./Images/Navigation_sesseon_01/Navigation_sesseon_01.jpg)
 
