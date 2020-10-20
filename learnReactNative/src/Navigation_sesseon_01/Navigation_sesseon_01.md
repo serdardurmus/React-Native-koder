@@ -13,5 +13,5 @@ Navigation_sesseon_01.js: [Klikk på meg](https://github.com/serdardurmus/React-
 
 ## Expected Outcome
 
-![Navigation_sesseon_01.js](./Images/Navigation_sesseon_01/Navigation_sesseon_01.jpg)
+![Navigation_sesseon_01.js](./Images/Navigation_sesseon_01.jpg)
 
