@@ -44,7 +44,9 @@ const Timeline = (props) => {
     
     const renderPostData = ({item}) => {
         return (
-            <PostCard post={item}/>
+            <PostCard 
+                post={item} 
+                onSelect={() => props.navigation.navigate('PostPage', { selectedPost: item })}/>
         )
     }
 

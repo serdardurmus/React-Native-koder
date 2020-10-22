@@ -1,18 +1,22 @@
 import React from 'react';
-import {Text, Image, TouchableOpacity, StyleSheet, Dimensions, View} from 'react-native';
+import {Text, Image, TouchableOpacity, StyleSheet, Dimensions, View, TouchableWithoutFeedback} from 'react-native';
 
 const PostCard = (props) => {
     return (
-        <TouchableOpacity>
+        <TouchableWithoutFeedback
+            onPress= {() => props.onSelect()}
+        >
+            <View>
             <Image 
                 style={styles.image}
                 source={{uri: props.post.img}}
             />
             <View style={styles.footercontainer}>
                 <Text style={styles.title}>{props.post.userName}</Text>
-                <Text>{props.post.description}</Text>
+                <Text numberOfLines={3}>{props.post.description}</Text>
             </View>
-        </TouchableOpacity>
+            </View>
+        </TouchableWithoutFeedback>
     )
 }
 
