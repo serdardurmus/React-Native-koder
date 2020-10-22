@@ -18,6 +18,7 @@ Du kan klikke på relevante koblinger for React-Native-kurs.
 
 ## React Native Navigation KursListe
 - Navigation_sesseon_01: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Navigation_sesseon_01/Navigation_sesseon_01.md)
+- Navigation_sesseon_02: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Navigation_sesseon_01/Navigation_sesseon_02.md)
 
 ## Eksempler
 - Example1 LoginPage: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Example1_LoginPage.md)
