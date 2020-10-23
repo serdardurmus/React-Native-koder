@@ -43,5 +43,50 @@
         "address_1": "222bergen 8th Ave SW",
         "address_2": "Bergens Kirke",
         "telephone": "+4039505330"
+    },
+    {
+        "id": 5,
+        "name": "Cafe Oslo",
+        "country": "Oslo",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "address_1": "111 8th Ave SW",
+        "address_2": "Calgary / Southern Alberta",
+        "telephone": "+4032635330"
+    },
+    {
+        "id": 6,
+        "name": "Tyrkisk Cafe",
+        "country": "Oslo",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "address_1": "123 8th Ave SW",
+        "address_2": "mith i OSLO",
+        "telephone": "+4032635345"
+    },
+    {
+        "id": 7,
+        "name": "Cafe Clarusway",
+        "country": "Oslo",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "address_1": "555 12th Ave SW",
+        "address_2": "sør i OSLO",
+        "telephone": "+4032635330"
+    },
+    {
+        "id": 8,
+        "name": "Bergen Restaurant",
+        "country": "Bergen",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "address_1": "111bergen 8th Ave SW",
+        "address_2": "Bergens Gata",
+        "telephone": "+4039505330"
+    },
+    {
+        "id": 9,
+        "name": "Cafe Oslo",
+        "country": "Bergen",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "address_1": "222bergen 8th Ave SW",
+        "address_2": "Bergens Kirke",
+        "telephone": "+4039505330"
     }
 ]
