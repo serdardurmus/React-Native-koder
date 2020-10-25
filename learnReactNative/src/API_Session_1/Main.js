@@ -34,7 +34,7 @@ const Main = (props) => {
     return(
         <SafeAreaView>
             <View>
-                <Text>APII</Text>
+                <Text>API 1</Text>
                 <Button title="Fetch Data With Then" onPress={fetchData_Then}/>
                 <Button title="Fetch Data With Await" onPress={fetchData_Await}/>
             </View>
