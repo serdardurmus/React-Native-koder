@@ -14,7 +14,7 @@ import {TouchableOpacity, Image, Text, Dimensions, StyleSheet} from 'react-nativ
 const PostCard = (props) => {
     return(
         <TouchableOpacity>
-            <Text style={styles.text}>{props.post.id}</Text>
+            <Text style={styles.text}>{props.post.neighborhood}</Text>
         </TouchableOpacity>
     )
 }
