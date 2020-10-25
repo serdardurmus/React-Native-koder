@@ -45,7 +45,7 @@ const Main = (props) => {
                 {
                     isLoading ?
                         <View style={{flex:1, justifyContent:"center", alignItems: "center"}}>
-                            <ActivityIndicator size="large"/>
+                            <ActivityIndicator size="large" color="black"/>
                         </View>
                         :
                         <RestaurantCard item = {restaurantData}/>
