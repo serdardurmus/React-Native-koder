@@ -25,6 +25,7 @@ Du kan klikke på relevante koblinger for React-Native-kurs.
 - API_Session_3: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/API_Session_3/API_Session_3.md)
 
 - redux_session_1: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/redux_session_1/redux_session_1.md)
+- redux_session_2: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/redux_session_2/redux_session_2.md)
 
 ## Eksempler
 - Example1 LoginPage: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Example1_LoginPage.md)
