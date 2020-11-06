@@ -12,3 +12,6 @@ redux_session_2: [Klikk på meg](https://github.com/serdardurmus/React-Native-ko
 
 ## Happy coding!
 
+## Expected Outcome
+
+![redux_session_2](./image/redux_session_2.jpg)
