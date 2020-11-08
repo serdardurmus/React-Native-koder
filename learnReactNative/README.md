@@ -40,7 +40,6 @@ Du kan klikke på relevante koblinger for React-Native-kurs.
 - Portfolio_Bulding_2: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Portfolio_Bulding_2/Portfolio_Bulding_2.md)
 - Portfolio_Bulding_3: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Portfolio_Bulding_3/Portfolio_Bulding_3.md)
 - Portfolio_Bulding_4: [Klikk på meg](https://github.com/serdardurmus/React-Native-koder/blob/main/learnReactNative/src/Portfolio_Bulding_4/Portfolio_Bulding_4.md)
-- JobSearch_v0.1: [Klikk på meg](https://github.com/serdardurmus/JobSearch_v0.1/README.md)
 
 ## Happy coding!
 
